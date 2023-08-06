@@ -1,0 +1,2 @@
+# infotrixs
+Static Website Hosting
